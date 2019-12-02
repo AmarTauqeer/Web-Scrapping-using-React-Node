@@ -8,8 +8,8 @@ Its very basic application of web scrapping where React is used as frontend and 
 ### Author
 
 Amar Tauqeer
-Msc in Information Systems at Vienna University of Economics and Business
-+43 68864 133065
-amar.tauqeer@gmail.com
-amar.tauqeer@hotmail.com
-Linkedin profile https://www.linkedin.com/in/amartauqeer/
+>Msc in Information Systems at Vienna University of Economics and Business
+>+43 68864 133065
+>amar.tauqeer@gmail.com
+>amar.tauqeer@hotmail.com
+>Linkedin profile https://www.linkedin.com/in/amartauqeer/
