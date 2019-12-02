@@ -1,4 +1,4 @@
-# React Express Starter Pack
+# React Express Full Stack Application
 
 Full stack apps with React and Express. Running client and server with a single command. 
 
